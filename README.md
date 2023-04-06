@@ -25,8 +25,9 @@ ColdFusion is a rapid web application development platform that allows developer
 - The installer can configure Apache, IIS, or a built-in web server. 
 - If you are using a database with ColdFusion, you will need to configure the database connection during the installation process. 
 - You can also configure this later using the ColdFusion Administrator.
+- Once the installation is complete, you can access the ColdFusion Administrator by navigating to http://localhost:8500/CFIDE/administrator/index.cfm in your web browser. From here, you can configure various settings, including data sources, mail servers, and debugging options.
 
-Then you can download individual files, copy and paste code, or clone the repository with
+Then you can download individual files from this repository, copy and paste code, or clone the repository with
 
 ```
 git clone https://github.com/Eggy115/Coldfusion.git
