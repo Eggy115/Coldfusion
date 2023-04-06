@@ -1,4 +1,4 @@
-# ColdFusion
+<h1 align="center">Coldfusion</h1>
 
 <p align="center">
   <a href="#about">About</a> •
