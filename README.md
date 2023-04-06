@@ -17,7 +17,7 @@ ColdFusion is a rapid web application development platform that allows developer
 
 ## License
 
-This repository is licensed under the [GPLv3 license](LICENSE.md).
+This repository is licensed under the [GPLv3 license](LICENSE).
 
 ## Contributing
 
